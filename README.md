@@ -22,5 +22,6 @@ Encounter issues? Try these steps:
     - If you face package-related problems, rebuild the project.
     - Use your IDE's build or project management options.
 
+Check out our gameplay here: https://youtu.be/FTDNqQdjF0I
 
 Happy gaming! 🎮
